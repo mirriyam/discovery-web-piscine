@@ -1,0 +1,9 @@
+Git Workflow
+
+1. Edit the files.
+2. Check changes with git status.
+3. Stage with git add.
+4. Save with git commit.
+5. Upload with git push.
+
+Edit → Add → Commit → Push
