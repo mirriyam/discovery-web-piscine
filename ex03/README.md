@@ -1,5 +1,5 @@
 Discovery Web Piscine
-Why Git Makes Development Easier
+##Why Git Makes Development Easier
 
 Git tracks code changes and keeps a history of previous versions. This helps protect work because we can see what changed and return to earlier versions when needed.
 
